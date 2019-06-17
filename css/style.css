@@ -456,7 +456,7 @@ i:before {
 }
 
 .top_header_area {
-  background: #f195b2;
+  background: orange;
   position: relative;
   z-index: 3;
 }
@@ -815,7 +815,7 @@ i:before {
 }
 
 .main_menu_two .navbar.navbar-expand-lg .navbar-nav li:hover a, .main_menu_two .navbar.navbar-expand-lg .navbar-nav li.active a {
-  color: #f195b2;
+  color: blue;
 }
 
 .main_menu_two .navbar.navbar-expand-lg .navbar-nav li:hover a:before, .main_menu_two .navbar.navbar-expand-lg .navbar-nav li.active a:before {
@@ -1866,7 +1866,7 @@ i:before {
 }
 
 .main_slider_area .rev_slider ul li .slider_text_box .main_btn:hover {
-  background: #f195b2;
+  background: orange;
   color: #fff;
 }
 
