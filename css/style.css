@@ -1809,7 +1809,7 @@ i:before {
 }
 
 .banner_text ul li:first-child a {
-  color: #f195b2;
+  color: orange;
 }
 
 .banner_text ul li:first-child a:before {
