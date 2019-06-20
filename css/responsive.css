@@ -28,7 +28,7 @@
 	.middle_menu_three .navbar.navbar-expand-lg .navbar-nav li {
 		margin-right: 30px;
 	}
-	
+
 	.middle_menu_three .navbar.navbar-expand-lg .navbar-nav {
 		text-align: center;
 		display: inline-block;
@@ -204,7 +204,7 @@
 	.our_bakery_image{
 		margin-bottom: -30px;
 		overflow: hidden;
-	}	
+	}
 	.order_now_form {
 		padding-left: 0px;
 		padding-right: 0px;
@@ -456,7 +456,7 @@
 	  opacity: 1;
 	  visibility: visible;
 	}
-	
+
 }
 @media(max-width: 767px){
 	.special_recipe_slider .item .media .d-flex {
@@ -677,7 +677,7 @@
 	.our_bakery_image{
 		max-width: 370px;
 		margin: 0px auto -30px;
-	}	
+	}
 	.main_w_title h2::before {
 		display: none;
 	}
@@ -816,14 +816,14 @@
 	}
 	.special_item_inner .specail_item {
 		padding-bottom: 40px;
-		padding-top: 40px; 
+		padding-top: 40px;
 	}
 	.special_item_inner .specail_item:first-child {
 		padding-bottom: 50px;
 	}
 	.special_area{
 		padding-bottom: 40px;
-	} 
+	}
 	.service_area {
 		padding: 70px 0px 70px 0px;
 	}

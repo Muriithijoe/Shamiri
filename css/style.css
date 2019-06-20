@@ -109,6 +109,25 @@ i:before {
   margin-left: 0px !important;
 }
 
+.body h1 {
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  text-decoration-color: blue;
+}
+
+.body h3 {
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+}
+
+.body p {
+  text-align: center;
+}
+
+.body li {
+  padding-left: 20px;
+}
+
 /* Container Custome Code css
 ============================================================================================ */
 @media (min-width: 1200px) {
@@ -1809,7 +1828,7 @@ i:before {
 }
 
 .banner_text ul li:first-child a {
-  color: orange;
+  color: #f195b2;
 }
 
 .banner_text ul li:first-child a:before {
@@ -6562,7 +6581,7 @@ i:before {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: #f195b2;
+  background: orange;
 }
 
 .f_about_widget p {
@@ -6600,8 +6619,8 @@ i:before {
 }
 
 .f_about_widget .nav li:hover a {
-  color: #f195b2;
-  border-color: #f195b2;
+  color: orange;
+  border-color: orange;
 }
 
 .f_about_widget .nav li:last-child {
@@ -6623,7 +6642,7 @@ i:before {
 }
 
 .f_link_widget .list_style li:hover a {
-  color: #f195b2;
+  color: orange;
 }
 
 .f_contact_widget h4 {
