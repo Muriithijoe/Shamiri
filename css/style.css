@@ -111,21 +111,25 @@ i:before {
 
 .body h1 {
   text-align: center;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Rubik Mono One', sans-serif;
   color: blue;
 }
 
 .body h3 {
   text-align: center;
-  font-family: 'Acme', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .body p {
   text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
 }
 
 .body li {
   padding-left: 20px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
 }
 
 /* Container Custome Code css
